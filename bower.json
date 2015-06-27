@@ -1,0 +1,22 @@
+{
+  "name": "clean",
+  "version": "0.0.0",
+  "authors": [
+    "Andy Jessop <andy@andyjessop.com>"
+  ],
+  "description": "A clean theme for Bolt CMS",
+  "license": "MIT",
+  "homepage": "www.andyjessop.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.5",
+    "jquery": "~2.1.4",
+    "modernizr": "~2.8.3"
+  }
+}
