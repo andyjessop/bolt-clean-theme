@@ -15,6 +15,7 @@ To install this theme, `theme/` and clone the repository:
 
 Install frontend dependencies:
 
+    cd clean
     bower install
 
 Set `theme: clean` in your `app/config/config.yml`, and you're good to go!
